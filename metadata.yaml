@@ -1,0 +1,50 @@
+_repo: WaheeneeAn-Indian-Girl-s-Story_67133
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Wilson, F. N. (Frederick N.)
+    alias: Wilson, Frederick N.
+    birthdate: 1876
+    deathdate: 1961
+    gutenberg_agent_id: '33977'
+    url: http://www.gutenberg.org/2009/agents/33977
+creator:
+  authors:
+  - agent_name: Waheenee
+    aliases:
+    - Maxidiwiac, Hidatsa Indian
+    - Buffalo Bird Woman
+    - Maxidiwiac
+    - Maaxiiriwia
+    - Buffalobird-woman
+    deathdate: 1932
+    gutenberg_agent_id: '50892'
+    url: http://www.gutenberg.org/2009/agents/50892
+    wikipedia: https://en.wikipedia.org/wiki/Buffalo_Bird_Woman
+  - agent_name: Wilson, Gilbert Livingstone
+    alias: Wilson, Gilbert Livingston
+    birthdate: 1868
+    deathdate: 1930
+    gutenberg_agent_id: '48795'
+    url: http://www.gutenberg.org/2009/agents/48795
+    wikipedia: https://en.wikipedia.org/wiki/Gilbert_Livingston_Wilson
+description: ''
+gutenberg_issued: '2022-01-09'
+identifiers:
+  gutenberg: '67133'
+language: en
+pgterms:marc904: https://archive.org/details/waheeneeindiangi00wils/page/n7
+pgterms:marc905: 20190224152442waheenee
+pgterms:marc906: '1921'
+pgterms:marc907: US
+production_note: MFR, Robert Tonsing and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: United States :Webb Publishing Company,1921.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Waheenee—An Indian Girl's Story
+url: http://www.gutenberg.org/ebooks/67133
