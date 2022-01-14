@@ -8,6 +8,9 @@ contributor:
     deathdate: 1961
     gutenberg_agent_id: '33977'
     url: http://www.gutenberg.org/2009/agents/33977
+covers:
+- cover_type: archival
+  image_path: 67133-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Waheenee
@@ -29,6 +32,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/48795
     wikipedia: https://en.wikipedia.org/wiki/Gilbert_Livingston_Wilson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67133#WaheeneeAn-Indian-Girl-s-Story
 gutenberg_issued: '2022-01-09'
 identifiers:
   gutenberg: '67133'
